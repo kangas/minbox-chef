@@ -1,0 +1,10 @@
+= DESCRIPTION:
+
+Operations cookbook for minbox project.
+
+= REQUIREMENTS:
+
+= ATTRIBUTES:
+
+= USAGE:
+
