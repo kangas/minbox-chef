@@ -1,0 +1,12 @@
+= DESCRIPTION:
+
+A generic way to deploy web applications.
+
+Derived the Opscode vendor "application" cookbook, but only keeping the parts I need.
+
+= REQUIREMENTS:
+
+= ATTRIBUTES:
+
+= USAGE:
+
